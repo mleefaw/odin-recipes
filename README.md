@@ -1,3 +1,3 @@
-It’s time to practice all of the HTML knowledge you have acquired. In this project, you are going to build a basic recipe website.
+This is a basic website featuring holiday recipes, used to practice HTML knowledge I have learned so far from the The Odin Project.
 
-The website will consist of a main index page which will have links to a few recipes. The website won’t look very pretty by the time you’ve finished but it’s important to keep in mind that this project is just to build your HTML chops; we will revisit this project in the future to style it up with CSS.
+The website consists of a main index page with links to three recipes. I will revisit this project in the future to style it up with CSS.
